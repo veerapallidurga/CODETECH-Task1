@@ -4,9 +4,10 @@ ID:CT4WD3889
 Domain:Web Development
 Duration:From JULY 5th, 2024 to AUGUST 5th, 2024
 Mentor:Neela Santhosh Kumar
+Overview of the Project
+
 ![Uploading social media.png…]()
 
-Overview of the Project
 Objectives
 1. User Engagement: Foster high levels of user interaction through features such as likes, comments, and shares.
 2. Content Sharing: Enable users to easily create, share, and discover various types of content (e.g., text, images, videos).
